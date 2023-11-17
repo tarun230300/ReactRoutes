@@ -11,3 +11,37 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Link {
+  text-decoration: none;
+  margin: 5px;
+  padding: 10px;
+  color: aliceblue;
+  background-color: rgb(212, 138, 48);
+  border-radius: 5px;
+}
+
+div{
+  background-image: url('https://th.bing.com/th/id/OIP.ztdFKLHJQWve1wgtR4C3KgHaEk?w=281&h=180&c=7&r=0&o=5&dpr=1.7&pid=1.7');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+
+}
+p{
+  color: rgb(227, 2, 2);
+  text-align: center;
+  font-weight: 500;
+
+}
+h1{
+  font-weight: 1000;
+}
+li{
+  color: rgb(67, 2, 206);
+  text-align: center;
+  font-weight: 700;
+  list-style: none;
+}
